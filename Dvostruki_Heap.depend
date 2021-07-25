@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1582043777 source:c:\users\aldin\desktop\dvostruki heap - projekat\dvostruki_heap\main.cpp
+	"Dvostruki_Heap.h"
+	"Dvostruki_Heap.cpp"
+	<iostream>
+	<vector>
+	<algorithm>
+
+1582047058 >
+
+1582042435 c:\users\aldin\desktop\dvostruki heap - projekat\dvostruki_heap\dvostruki_heap.h
+	<iostream>
+	<vector>
+	<algorithm>
+
+1582047058 source:c:\users\aldin\desktop\dvostruki heap - projekat\dvostruki_heap\dvostruki_heap.cpp
+	"Dvostruki_Heap.h"
+	<iostream>
+	<vector>
+	<algorithm>
+
+1582047058 c:\users\aldin\desktop\dvostruki heap - projekat\dvostruki_heap\dvostruki_heap.cpp
+	"Dvostruki_Heap.h"
+	<iostream>
+	<vector>
+	<algorithm>
+
+1582014658 source:/home/aldin/C++/Dvostruki_Heap-20201119T202028Z-001/Dvostruki_Heap/Dvostruki_Heap.cpp
+	"Dvostruki_Heap.h"
+	<iostream>
+	<vector>
+	<algorithm>
+
+1582010034 /home/aldin/C++/Dvostruki_Heap-20201119T202028Z-001/Dvostruki_Heap/Dvostruki_Heap.h
+	<iostream>
+	<vector>
+	<algorithm>
+
+1605817759 source:/home/aldin/C++/Dvostruki_Heap-20201119T202028Z-001/Dvostruki_Heap/main.cpp
+	"Dvostruki_Heap.h"
+	"Dvostruki_Heap.cpp"
+	<iostream>
+	<vector>
+	<algorithm>
+
+1582014658 /home/aldin/C++/Dvostruki_Heap-20201119T202028Z-001/Dvostruki_Heap/Dvostruki_Heap.cpp
+	"Dvostruki_Heap.h"
+	<iostream>
+	<vector>
+	<algorithm>
+
